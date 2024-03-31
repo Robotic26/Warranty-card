@@ -1,0 +1,125 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
+  body{
+    background-color: pink;
+  }
+  .header_1{
+    height: 30px;
+  background-color: blue;
+  text-align: center;
+  font-weight: bold;
+  padding: 5px;
+  margin: .5px;
+}
+
+.header_1 h2{
+  color: white;
+  font-size: 20px;
+}
+
+.self-header{
+  background-color: rgb(120,120,120);
+  text-align: center;
+  font-weight: bold;
+  height: 30px;
+  padding:5px;
+  margin:1px;
+}
+
+.self-header h5{
+  color: white;
+  font-size: 15px;
+    text-shadow: rgb(90,120,60);
+}
+
+.regi_form{
+  border: 1px solid blue;
+  border-radius: 10px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-left: 1.5px;
+  margin-right: 1.5px;
+  padding-left: 5px;
+  padding-right: 3px;
+  padding-top: 1.5px;
+  padding-bottom: 1.5px;
+  background-color: gray;
+}
+
+.header_2{
+  text-align: center;
+  text-decoration:underline lightblue 2px;
+}
+
+.header_2 h4{
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  padding:1px;
+  margin-top: 1px;
+}
+
+.regi{
+  color: white;
+  font-weight: bold;
+}
+
+.regi input{
+  color: blue;
+  padding: 1px;
+  margin-top:.5 px;
+  margin-bottom: .5px;
+  border-radius: 12px;
+  border: 1px solid red;
+}
+
+#send{
+  font-weight: bold;
+  font-size: 15px;
+  border: 1px solid blue;
+  margin: 1.5px 1.5px;
+  padding: 1.5px 1.5px;
+  width:50%;
+}
+
+.footer{
+  background-color: gray;
+  border-radius: 14px;
+  font-weight: bold;
+  color: white;
+  padding-left: 10px;
+  padding-right: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 1px;
+  line-height: 2rem;
+}
+
+.footer .remax{
+  text-align: center;
+  margin-left: 105px;
+  margin-right: 100px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: 1px solid blue;
+  border-radius: 15px;
+  background-color: blue;
+}
+
+.footer span{
+  color: lightgreen;
+}
+
+.footer a{
+  text-decoration: none;
+  color: lightgreen;
+}
+
+.footer li{
+  color: lightgreen;
+  margin-left: 8px;
+  list-style: disc;
+}
